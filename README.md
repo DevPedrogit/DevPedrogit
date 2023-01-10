@@ -4,7 +4,7 @@
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_dev_/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/pedro-henrique-05a09a235/](https://www.linkedin.com/in/pedro-henrique-05a09a235/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-05a09a235/))
 
 ![HenriqueDev GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedrogit&show_icons=true&theme=radical)
 
